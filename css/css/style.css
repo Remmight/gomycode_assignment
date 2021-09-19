@@ -561,37 +561,19 @@ p {
 .join-us_header {
   text-align: center;
 }
-.lazt-grid {
-  display: grid;
-  grid-template-columns: 1fr 1fr 1fr;
-}
-figure img {
-  width: 303px;
-  height: 273px;
-  border-radius: 5px;
-}
-figcaption {
-  margin-left: 30px;
-  font-size: 1.125em;
-  font-weight: 400;
-  line-height: 1;
-  padding: 0.4em;
-  color: #747474;
-  font-family: Roboto, Arial, sans-serif;
-}
-.btn0 {
-  border: 0;
-  line-height: 1.5;
-  padding: 0 10px;
-  font-size: 0.8rem;
-  text-align: center;
-  color: #fff;
-  border-radius: 2px;
-  background-color: #3d83df;
-  float: right;
-}
 *,
 :after,
 :before {
   box-sizing: inherit;
+}
+.main-footer {
+  border-top: 1px solid #eef2f2;
+  text-align: center;
+  padding: 1em 0;
+}
+.docplanner-big {
+  margin-right: auto;
+  width: 30%;
+  padding-top: 0;
+  padding-right: 100px;
 }
